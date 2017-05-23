@@ -1,0 +1,621 @@
+
+/*==============================================
+                    Theme Color 
+============================================= */
+.color_pnnel_box {
+  background: #2c3e50 none repeat scroll 0 0;
+  height: 100px;
+  left: -150px;
+  position: fixed;
+  top: 200px;
+  width: 150px;
+  z-index: 11;
+    border-radius: 0 2px 2px 0;
+}
+.color_pnale {
+  padding: 10px;
+  text-align: center;
+}
+.color_pnale span {
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  height: 30px;
+  margin: 5px;
+  text-align: center;
+  width: 30px;
+}
+.pnale_button {
+  border-radius: 2px;
+  color: #ffc107;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 25px;
+  left: 101%;
+  padding: 4px 5px;
+  position: absolute;
+  top: 0;
+}
+.color_pnale span.color_default{
+    background: #FFC107;
+}
+.color_pnale span.color_peterRiver{
+    background: #3498db;
+}
+.color_pnale span.color_emerald{
+    background: #2ecc71;
+}
+.color_pnale span.color_alizarin{
+    background: #e74c3c;
+}
+.color_pnale span.color_amethyst{
+    background: #9b59b6;
+}
+.color_pnale span.color_turquoise{
+    background: #1abc9c;
+}
+
+/*  Background Color */
+.manbi-btn:hover,
+.navigation-area .navbar-toggle .icon-bar,
+.navigation-area .navbar-nav > li > a:after,
+.navigation-area .navbar-nav li.active a::before,
+.ProgressBarArea .progress::after,
+.contact-filed input:focus ~ i.fa,
+.contact-filed textarea:focus ~ i.fa,
+.social-link a:hover,
+.MnabiPreloder .spinner,
+.tag_list a:hover,
+.divider,
+.blog-pagination ul li.active a,
+.header-text::before,
+.blog-pagination ul li a:hover{
+  background: #FFC107;
+}
+/* Color */
+.nav > li > a:focus, 
+.nav > li > a:hover,
+.is-sticky .navigation-area .navbar-nav > li > a:hover,
+.experiacneArea h4 span,
+.HCS-Item .fa,
+.HCS-Item span,
+.mixitup-control ul li.active,
+.mix-caption-tcell,
+.mfp-close, 
+.mfp-counter,
+#testimonial-slide::before,
+#testimonial-slide::after,
+.contact-form .manbi-btn,
+.contact-filed i.fa,
+.footer-copyihgt span,
+.social-link a,
+.ScrollToTop a,
+.navigation-area .navbar-nav li.active a,
+.breadcrumb a:hover,
+.breadcrumb li.active,
+.search-box .btn.btn-default,
+.recent_post_content > a:hover,
+.header-text p,
+.blog_meta i.fa,
+.blog_content a:hover,
+.blog_btn.manbi-btn,
+.categories-item a:hover{
+  color: #ffc107 ;
+}
+
+/*  Border Color */
+.navigation-area .navbar-toggle,
+.HCS-Item .fa,
+.social-link a,
+.ScrollToTop a,
+.contact-form input:focus,
+.contact-form textarea:focus,
+.search-box .form-control,
+.blog_box:hover{
+    border: 1px;
+}
+.mfp-arrow-left::after {
+    border-right: 17px solid #FFC107;
+}
+.mfp-arrow-right::after {
+    border-left: 17px solid #FFC107;
+}
+.contact-form input:focus,
+.contact-form textarea:focus{
+    box-shadow: 0 0 0 #ffc107;
+    -webkit-box-shadow: 0 0 0 #ffc107;
+}
+.navigation-area .navbar-toggle,
+.HCS-Item .fa,
+.contact-form input:focus,
+.contact-form textarea:focus,
+.social-link a,
+.ScrollToTop a,
+.search-box .form-control,
+.blog_box:hover,
+.comment_form .form-control:focus{
+    border-color: #ffc107 ;
+    border-style: solid;
+}
+.social-link a:hover,
+.contact-form .manbi-btn:hover{
+    color: #111111;
+}
+.categories-item a:hover{
+    border-color: #FFC107;
+}
+
+/*
+    Peter River Color Theme
+========================================= */
+/*  Background Color */
+.color_peterRiver_theme .manbi-btn:hover,
+.color_peterRiver_theme .navigation-area .navbar-toggle .icon-bar,
+.color_peterRiver_theme .navigation-area .navbar-nav > li > a:after,
+.color_peterRiver_theme .navigation-area .navbar-nav li.active a::before,
+.color_peterRiver_theme .ProgressBarArea .progress::after,
+.color_peterRiver_theme .contact-filed input:focus ~ i.fa,
+.color_peterRiver_theme .contact-filed textarea:focus ~ i.fa,
+.color_peterRiver_theme .social-link a:hover,
+.color_peterRiver_theme .MnabiPreloder .spinner,
+.color_peterRiver_theme .tag_list a:hover,
+.color_peterRiver_theme .divider,
+.color_peterRiver_theme .blog-pagination ul li.active a,
+.color_peterRiver_theme .header-text::before,
+.color_peterRiver_theme .blog-pagination ul li a:hover
+{
+  background: #3498db;
+}
+/* Color */
+.color_peterRiver_theme .pnale_button,
+.color_peterRiver_theme .nav > li > a:focus, 
+.color_peterRiver_theme .nav > li > a:hover,
+.color_peterRiver_theme .is-sticky .navigation-area .navbar-nav > li > a:hover,
+.color_peterRiver_theme .experiacneArea h4 span,
+.color_peterRiver_theme .HCS-Item .fa,
+.color_peterRiver_theme .HCS-Item span,
+.color_peterRiver_theme .mixitup-control ul li.active,
+.color_peterRiver_theme .mix-caption-tcell,
+.color_peterRiver_theme .mix-caption-tcell,
+.color_peterRiver_theme .mfp-close, 
+.color_peterRiver_theme .mfp-counter,
+.color_peterRiver_theme #testimonial-slide::before,
+.color_peterRiver_theme #testimonial-slide::after,
+.color_peterRiver_theme .contact-form .manbi-btn,
+.color_peterRiver_theme .contact-filed i.fa,
+.color_peterRiver_theme .footer-copyihgt span,
+.color_peterRiver_theme .social-link a,
+.color_peterRiver_theme .ScrollToTop a,
+.color_peterRiver_theme .navigation-area .navbar-nav li.active a,
+.color_peterRiver_theme .breadcrumb a:hover,
+.color_peterRiver_theme .breadcrumb li.active,
+.color_peterRiver_theme .search-box .btn.btn-default,
+.color_peterRiver_theme .recent_post_content > a:hover,
+.color_peterRiver_theme .header-text p,
+.color_peterRiver_theme .blog_meta i.fa,
+.color_peterRiver_theme .blog_content a:hover,
+.color_peterRiver_theme .categories-item a:hover,
+.color_peterRiver_theme .blog_btn.manbi-btn
+{
+  color: #3498db ;
+}
+
+/*  Border Color */
+.color_peterRiver_theme .navigation-area .navbar-toggle,
+.color_peterRiver_theme .HCS-Item .fa,
+.color_peterRiver_theme .social-link a,
+.color_peterRiver_theme .ScrollToTop a,
+.color_peterRiver_theme .contact-form input:focus,
+.color_peterRiver_theme .contact-form textarea:focus,
+.color_peterRiver_theme .search-box .form-control,
+.color_peterRiver_theme .blog_box:hover{
+    border: 1px;
+}
+.color_peterRiver_theme .mfp-arrow-left::after {
+    border-right: 17px solid #3498db;
+}
+.color_peterRiver_theme .mfp-arrow-right::after {
+    border-left: 17px solid #3498db;
+}
+.color_peterRiver_theme .contact-form input:focus,
+.color_peterRiver_theme .contact-form textarea:focus{
+    box-shadow: 0 0 0 #3498db;
+    -webkit-box-shadow: 0 0 0 #3498db;
+}
+.color_peterRiver_theme .navigation-area .navbar-toggle,
+.color_peterRiver_theme .HCS-Item .fa,
+.color_peterRiver_theme .contact-form input:focus,
+.color_peterRiver_theme .contact-form textarea:focus,
+.color_peterRiver_theme .social-link a,
+.color_peterRiver_theme .ScrollToTop a,
+.color_peterRiver_theme .search-box .form-control,
+.color_peterRiver_theme .comment_form .form-control:focus,
+.color_peterRiver_theme .blog_box:hover{
+    border-color: #3498db ;
+    border-style: solid;
+}
+.color_peterRiver_theme .categories-item a:hover{
+    border-color: #3498db;
+}
+.color_peterRiver_theme .social-link a:hover,
+.color_peterRiver_theme .contact-form .manbi-btn:hover{
+    color: #111111;
+}
+
+/*
+    Emerald Color Theme
+========================================= */
+/*  Background Color */
+.color_emerald_theme .manbi-btn:hover,
+.color_emerald_theme .navigation-area .navbar-toggle .icon-bar,
+.color_emerald_theme .navigation-area .navbar-nav > li > a:after,
+.color_emerald_theme .navigation-area .navbar-nav li.active a::before,
+.color_emerald_theme .ProgressBarArea .progress::after,
+.color_emerald_theme .contact-filed input:focus ~ i.fa,
+.color_emerald_theme .contact-filed textarea:focus ~ i.fa,
+.color_emerald_theme .social-link a:hover,
+.color_emerald_theme .MnabiPreloder .spinner,
+.color_emerald_theme .tag_list a:hover,
+.color_emerald_theme .divider,
+.color_emerald_theme .blog-pagination ul li.active a,
+.color_emerald_theme .header-text::before,
+.color_emerald_theme .blog-pagination ul li a:hover{
+  background: #2ecc71;
+}
+/* Color */
+.color_emerald_theme .pnale_button,
+.color_emerald_theme .nav > li > a:focus, 
+.color_emerald_theme .nav > li > a:hover,
+.color_emerald_theme .is-sticky .navigation-area .navbar-nav > li > a:hover,
+.color_emerald_theme .experiacneArea h4 span,
+.color_emerald_theme .HCS-Item .fa,
+.color_emerald_theme .HCS-Item span,
+.color_emerald_theme .mixitup-control ul li.active,
+.color_emerald_theme .mix-caption-tcell,
+.color_emerald_theme .mix-caption-tcell,
+.color_emerald_theme .mfp-close, 
+.color_emerald_theme .mfp-counter,
+.color_emerald_theme #testimonial-slide::before,
+.color_emerald_theme #testimonial-slide::after,
+.color_emerald_theme .contact-form .manbi-btn,
+.color_emerald_theme .contact-filed i.fa,
+.color_emerald_theme .footer-copyihgt span,
+.color_emerald_theme .social-link a,
+.color_emerald_theme .ScrollToTop a,
+.color_emerald_theme .navigation-area .navbar-nav li.active a,
+.color_emerald_theme .breadcrumb a:hover,
+.color_emerald_theme .breadcrumb li.active,
+.color_emerald_theme .search-box .btn.btn-default,
+.color_emerald_theme .recent_post_content > a:hover,
+.color_emerald_theme .header-text p,
+.color_emerald_theme .blog_meta i.fa,
+.color_emerald_theme .blog_content a:hover,
+.color_emerald_theme .categories-item a:hover,
+.color_emerald_theme .blog_btn.manbi-btn{
+  color: #2ecc71 ;
+}
+
+/*  Border Color */
+.color_emerald_theme .navigation-area .navbar-toggle,
+.color_emerald_theme .HCS-Item .fa,
+.color_emerald_theme .social-link a,
+.color_emerald_theme .ScrollToTop a,
+.color_emerald_theme .contact-form input:focus,
+.color_emerald_theme .contact-form textarea:focus,
+.color_emerald_theme .search-box .form-control,
+.color_emerald_theme .blog_box:hover{
+    border: 1px;
+}
+.color_emerald_theme .mfp-arrow-left::after {
+    border-right: 17px solid #2ecc71;
+}
+.color_emerald_theme .mfp-arrow-right::after {
+    border-left: 17px solid #2ecc71;
+}
+.color_emerald_theme .contact-form input:focus,
+.color_emerald_theme .contact-form textarea:focus{
+    box-shadow: 0 0 0 #2ecc71;
+    -webkit-box-shadow: 0 0 0 #2ecc71;
+}
+.color_emerald_theme .navigation-area .navbar-toggle,
+.color_emerald_theme .HCS-Item .fa,
+.color_emerald_theme .contact-form input:focus,
+.color_emerald_theme .contact-form textarea:focus,
+.color_emerald_theme .social-link a,
+.color_emerald_theme .ScrollToTop a,
+.color_emerald_theme .search-box .form-control,
+.color_emerald_theme .comment_form .form-control:focus,
+.color_emerald_theme .blog_box:hover{
+    border-color: #2ecc71 ;
+    border-style: solid;
+}
+.color_emerald_theme .categories-item a:hover{
+    border-color: #2ecc71;
+}
+.color_emerald_theme .social-link a:hover,
+.color_emerald_theme .contact-form .manbi-btn:hover {
+    color: #111111;
+}
+
+/*
+    Alizarin Color Theme
+========================================= */
+/*  Background Color */
+.color_alizarin_theme .manbi-btn:hover,
+.color_alizarin_theme .navigation-area .navbar-toggle .icon-bar,
+.color_alizarin_theme .navigation-area .navbar-nav > li > a:after,
+.color_alizarin_theme .navigation-area .navbar-nav li.active a::before,
+.color_alizarin_theme .ProgressBarArea .progress::after,
+.color_alizarin_theme .contact-filed input:focus ~ i.fa,
+.color_alizarin_theme .contact-filed textarea:focus ~ i.fa,
+.color_alizarin_theme .social-link a:hover,
+.color_alizarin_theme .MnabiPreloder .spinner,
+.color_alizarin_theme .tag_list a:hover,
+.color_alizarin_theme .divider,
+.color_alizarin_theme .blog-pagination ul li.active a,
+.color_alizarin_theme .header-text::before,
+.color_alizarin_theme .blog-pagination ul li a:hover{
+  background: #e74c3c;
+}
+/* Color */
+.color_alizarin_theme .pnale_button,
+.color_alizarin_theme .nav > li > a:focus, 
+.color_alizarin_theme .nav > li > a:hover,
+.color_alizarin_theme .is-sticky .navigation-area .navbar-nav > li > a:hover,
+.color_alizarin_theme .experiacneArea h4 span,
+.color_alizarin_theme .HCS-Item .fa,
+.color_alizarin_theme .HCS-Item span,
+.color_alizarin_theme .mixitup-control ul li.active,
+.color_alizarin_theme .mix-caption-tcell,
+.color_alizarin_theme .mix-caption-tcell,
+.color_alizarin_theme .mfp-close, 
+.color_alizarin_theme .mfp-counter,
+.color_alizarin_theme #testimonial-slide::before,
+.color_alizarin_theme #testimonial-slide::after,
+.color_alizarin_theme .contact-form .manbi-btn,
+.color_alizarin_theme .contact-filed i.fa,
+.color_alizarin_theme .footer-copyihgt span,
+.color_alizarin_theme .social-link a,
+.color_alizarin_theme .ScrollToTop a,
+.color_alizarin_theme .navigation-area .navbar-nav li.active a,
+.color_alizarin_theme .breadcrumb a:hover,
+.color_alizarin_theme .breadcrumb li.active,
+.color_alizarin_theme .search-box .btn.btn-default,
+.color_alizarin_theme .recent_post_content > a:hover,
+.color_alizarin_theme .header-text p,
+.color_alizarin_theme .blog_meta i.fa,
+.color_alizarin_theme .blog_content a:hover,
+.color_alizarin_theme .categories-item a:hover,
+.color_alizarin_theme .blog_btn.manbi-btn{
+  color: #e74c3c ;
+}
+
+/*  Border Color */
+.color_alizarin_theme .navigation-area .navbar-toggle,
+.color_alizarin_theme .HCS-Item .fa,
+.color_alizarin_theme .social-link a,
+.color_alizarin_theme .ScrollToTop a,
+.color_alizarin_theme .contact-form input:focus,
+.color_alizarin_theme .contact-form textarea:focus,
+.color_alizarin_theme .search-box .form-control,
+.color_alizarin_theme .blog_box:hover{
+    border: 1px;
+}
+.color_alizarin_theme .mfp-arrow-left::after {
+    border-right: 17px solid #e74c3c;
+}
+.color_alizarin_theme .mfp-arrow-right::after {
+    border-left: 17px solid #e74c3c;
+}
+.color_alizarin_theme .contact-form input:focus,
+.color_alizarin_theme .contact-form textarea:focus{
+    box-shadow: 0 0 0 #e74c3c;
+    -webkit-box-shadow: 0 0 0 #e74c3c;
+}
+.color_alizarin_theme .navigation-area .navbar-toggle,
+.color_alizarin_theme .HCS-Item .fa,
+.color_alizarin_theme .contact-form input:focus,
+.color_alizarin_theme .contact-form textarea:focus,
+.color_alizarin_theme .social-link a,
+.color_alizarin_theme .ScrollToTop a,
+.color_alizarin_theme .search-box .form-control,
+.color_alizarin_theme .comment_form .form-control:focus,
+.color_alizarin_theme .blog_box:hover{
+    border-color: #e74c3c ;
+    border-style: solid;
+}
+.color_alizarin_theme .categories-item a:hover{
+    border-color: #e74c3c;
+}
+.color_alizarin_theme .social-link a:hover,
+.color_alizarin_theme .contact-form .manbi-btn:hover {
+    color: #111111;
+}
+/*
+    Amethyst Color Theme
+========================================= */
+/*  Background Color */
+.color_amethyst_theme .manbi-btn:hover,
+.color_amethyst_theme .navigation-area .navbar-toggle .icon-bar,
+.color_amethyst_theme .navigation-area .navbar-nav > li > a:after,
+.color_amethyst_theme .navigation-area .navbar-nav li.active a::before,
+.color_amethyst_theme .ProgressBarArea .progress::after,
+.color_amethyst_theme .contact-filed input:focus ~ i.fa,
+.color_amethyst_theme .contact-filed textarea:focus ~ i.fa,
+.color_amethyst_theme .social-link a:hover,
+.color_amethyst_theme .MnabiPreloder .spinner,
+.color_amethyst_theme .tag_list a:hover,
+.color_amethyst_theme .divider,
+.color_amethyst_theme .blog-pagination ul li.active a,
+.color_amethyst_theme .header-text::before,
+.color_amethyst_theme .blog-pagination ul li a:hover{
+  background: #9b59b6;
+}
+/* Color */
+.color_amethyst_theme .pnale_button,
+.color_amethyst_theme .nav > li > a:focus, 
+.color_amethyst_theme .nav > li > a:hover,
+.color_amethyst_theme .is-sticky .navigation-area .navbar-nav > li > a:hover,
+.color_amethyst_theme .experiacneArea h4 span,
+.color_amethyst_theme .HCS-Item .fa,
+.color_amethyst_theme .HCS-Item span,
+.color_amethyst_theme .mixitup-control ul li.active,
+.color_amethyst_theme .mix-caption-tcell,
+.color_amethyst_theme .mix-caption-tcell,
+.color_amethyst_theme .mfp-close, 
+.color_amethyst_theme .mfp-counter,
+.color_amethyst_theme #testimonial-slide::before,
+.color_amethyst_theme #testimonial-slide::after,
+.color_amethyst_theme .contact-form .manbi-btn,
+.color_amethyst_theme .contact-filed i.fa,
+.color_amethyst_theme .footer-copyihgt span,
+.color_amethyst_theme .social-link a,
+.color_amethyst_theme .ScrollToTop a,
+.color_amethyst_theme .navigation-area .navbar-nav li.active a,
+.color_amethyst_theme .breadcrumb a:hover,
+.color_amethyst_theme .breadcrumb li.active,
+.color_amethyst_theme .search-box .btn.btn-default,
+.color_amethyst_theme .recent_post_content > a:hover,
+.color_amethyst_theme .header-text p,
+.color_amethyst_theme .blog_meta i.fa,
+.color_amethyst_theme .blog_content a:hover,
+.color_amethyst_theme .categories-item a:hover,
+.color_amethyst_theme .blog_btn.manbi-btn{
+  color: #9b59b6 ;
+}
+
+/*  Border Color */
+.color_amethyst_theme .navigation-area .navbar-toggle,
+.color_amethyst_theme .HCS-Item .fa,
+.color_amethyst_theme .social-link a,
+.color_amethyst_theme .ScrollToTop a,
+.color_amethyst_theme .contact-form input:focus,
+.color_amethyst_theme .contact-form textarea:focus,
+.color_amethyst_theme .search-box .form-control,
+.color_amethyst_theme .blog_box:hover{
+    border: 1px;
+}
+.color_amethyst_theme .mfp-arrow-left::after {
+    border-right: 17px solid #9b59b6;
+}
+.color_amethyst_theme .mfp-arrow-right::after {
+    border-left: 17px solid #9b59b6;
+}
+.color_amethyst_theme .contact-form input:focus,
+.color_amethyst_theme .contact-form textarea:focus{
+    box-shadow: 0 0 0 #9b59b6;
+    -webkit-box-shadow: 0 0 0 #9b59b6;
+}
+.color_amethyst_theme .navigation-area .navbar-toggle,
+.color_amethyst_theme .HCS-Item .fa,
+.color_amethyst_theme .contact-form input:focus,
+.color_amethyst_theme .contact-form textarea:focus,
+.color_amethyst_theme .social-link a,
+.color_amethyst_theme .ScrollToTop a,
+.color_amethyst_theme .search-box .form-control,
+.color_amethyst_theme .comment_form .form-control:focus,
+.color_amethyst_theme .blog_box:hover{
+    border-color: #9b59b6 ;
+    border-style: solid;
+}
+.color_amethyst_theme .categories-item a:hover{
+    border-color: #9b59b6;
+}
+.color_amethyst_theme .social-link a:hover,
+.color_amethyst_theme .contact-form .manbi-btn:hover {
+    color: #111111;
+}
+/*
+    Turquoise Color Theme
+========================================= */
+/*  Background Color */
+.color_turquoise_theme .manbi-btn:hover,
+.color_turquoise_theme .navigation-area .navbar-toggle .icon-bar,
+.color_turquoise_theme .navigation-area .navbar-nav > li > a:after,
+.color_turquoise_theme .navigation-area .navbar-nav li.active a::before,
+.color_turquoise_theme .ProgressBarArea .progress::after,
+.color_turquoise_theme .contact-filed input:focus ~ i.fa,
+.color_turquoise_theme .contact-filed textarea:focus ~ i.fa,
+.color_turquoise_theme .social-link a:hover,
+.color_turquoise_theme .MnabiPreloder .spinner,
+.color_turquoise_theme .tag_list a:hover,
+.color_turquoise_theme .divider,
+.color_turquoise_theme .blog-pagination ul li.active a,
+.color_turquoise_theme .header-text::before,
+.color_turquoise_theme .blog-pagination ul li a:hover{
+  background: #1abc9c;
+}
+/* Color */
+.color_turquoise_theme .pnale_button,
+.color_turquoise_theme .nav > li > a:focus, 
+.color_turquoise_theme .nav > li > a:hover,
+.color_turquoise_theme .is-sticky .navigation-area .navbar-nav > li > a:hover,
+.color_turquoise_theme .experiacneArea h4 span,
+.color_turquoise_theme .HCS-Item .fa,
+.color_turquoise_theme .HCS-Item span,
+.color_turquoise_theme .mixitup-control ul li.active,
+.color_turquoise_theme .mix-caption-tcell,
+.color_turquoise_theme .mix-caption-tcell,
+.color_turquoise_theme .mfp-close, 
+.color_turquoise_theme .mfp-counter,
+.color_turquoise_theme #testimonial-slide::before,
+.color_turquoise_theme #testimonial-slide::after,
+.color_turquoise_theme .contact-form .manbi-btn,
+.color_turquoise_theme .contact-filed i.fa,
+.color_turquoise_theme .footer-copyihgt span,
+.color_turquoise_theme .social-link a,
+.color_turquoise_theme .ScrollToTop a,
+.color_turquoise_theme .navigation-area .navbar-nav li.active a,
+.color_turquoise_theme .breadcrumb a:hover,
+.color_turquoise_theme .breadcrumb li.active,
+.color_turquoise_theme .search-box .btn.btn-default,
+.color_turquoise_theme .recent_post_content > a:hover,
+.color_turquoise_theme .header-text p,
+.color_turquoise_theme .blog_meta i.fa,
+.color_turquoise_theme .blog_content a:hover,
+.color_turquoise_theme .categories-item a:hover,
+.color_turquoise_theme .blog_btn.manbi-btn{
+  color: #1abc9c ;
+}
+
+/*  Border Color */
+.color_turquoise_theme .navigation-area .navbar-toggle,
+.color_turquoise_theme .HCS-Item .fa,
+.color_turquoise_theme .social-link a,
+.color_turquoise_theme .ScrollToTop a,
+.color_turquoise_theme .contact-form input:focus,
+.color_turquoise_theme .contact-form textarea:focus,
+.color_turquoise_theme .search-box .form-control,
+.color_turquoise_theme .blog_box:hover{
+    border: 1px;
+}
+.color_turquoise_theme .mfp-arrow-left::after {
+    border-right: 17px solid #1abc9c;
+}
+.color_turquoise_theme .mfp-arrow-right::after {
+    border-left: 17px solid #1abc9c;
+}
+.color_turquoise_theme .contact-form input:focus,
+.color_turquoise_theme .contact-form textarea:focus{
+    box-shadow: 0 0 0 #1abc9c;
+    -webkit-box-shadow: 0 0 0 #1abc9c;
+}
+.color_turquoise_theme .navigation-area .navbar-toggle,
+.color_turquoise_theme .HCS-Item .fa,
+.color_turquoise_theme .contact-form input:focus,
+.color_turquoise_theme .contact-form textarea:focus,
+.color_turquoise_theme .social-link a,
+.color_turquoise_theme .ScrollToTop a,
+.color_turquoise_theme .search-box .form-control,
+.color_turquoise_theme .comment_form .form-control:focus,
+.color_turquoise_theme .blog_box:hover{
+    border-color: #1abc9c ;
+    border-style: solid;
+}
+.color_turquoise_theme .categories-item a:hover{
+    border-color: #1abc9c;
+}
+.color_turquoise_theme .social-link a:hover,
+.color_turquoise_theme .contact-form .manbi-btn:hover {
+    color: #111111;
+}
